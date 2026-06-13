@@ -1,4 +1,25 @@
-<!-- SHAHZU PLAYER - GitHub Profile README (Web Design Focus) -->
+<!-- Professional Header & Tech Stack Section for Zakaullah Baloch -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=500&color=0A66C2&center=true&vCenter=true&width=600&lines=Zakaullah+Baloch;Full-Stack+Developer;Tech+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+  <i>Building modern web experiences & scalable systems</i>
+</p>
+
+<br/>
+
+<!-- Original README Content Starts Here -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+SHAHZU+PLAYER+⚡;Web+Designer+%26+Developer;UI/UX+Enthusiast;Full-Stack+Creator" />
 </p>
