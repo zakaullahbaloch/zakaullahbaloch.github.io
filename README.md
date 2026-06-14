@@ -1,3 +1,36 @@
+<!-- SHAHZU PLAYER - PRO FONTS VERSION -->
+<style>
+  body {
+    font-family: 'Inter', 'Segoe UI', 'Poppins', system-ui, -apple-system, sans-serif;
+  }
+  h1, h2, h3, .section-title, .pro-text {
+    font-family: 'Poppins', 'Inter', 'Segoe UI', sans-serif;
+    letter-spacing: -0.02em;
+  }
+  .badge-text {
+    font-family: 'SF Mono', 'Fira Code', monospace;
+    font-weight: 500;
+  }
+  .quote {
+    font-style: italic;
+    font-weight: 400;
+    letter-spacing: 0.3px;
+    background: linear-gradient(135deg, #f0f0f0, #e0e0e0);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .tech-badge {
+    font-family: 'Inter', monospace;
+    font-weight: 600;
+  }
+</style>
+
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/MX3smR2/photo-2026-06-14-02-40-40-7651075889513365532.jpg" width="800" style="border-radius: 24px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3);" />
+</p>
+
 <!-- Professional Header & Tech Stack Section for Zakaullah Baloch -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=500&color=0A66C2&center=true&vCenter=true&width=600&lines=Zakaullah+Baloch;Full-Stack+Developer;Tech+Enthusiast" />
@@ -14,12 +47,12 @@
 </p>
 
 <p align="center">
-  <i>Building modern web experiences & scalable systems</i>
+  <i style="font-family: 'Inter', sans-serif; font-weight: 400; letter-spacing: 0.2px;">Building modern web experiences & scalable systems</i>
 </p>
 
 <br/>
 
-<!-- Original README Content Starts Here -->
+<!-- Original README Content Starts Here with Pro Fonts -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+SHAHZU+PLAYER+⚡;Web+Designer+%26+Developer;UI/UX+Enthusiast;Full-Stack+Creator" />
 </p>
@@ -109,6 +142,19 @@ I'm **SHAHZU PLAYER**, a creative web designer and developer from Pakistan. I lo
 
 <p align="center">
   <a href="https://wa.me/923042586946"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/zakaullahbaloch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:shahzuking15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <i style="font-family: 'Poppins', 'Inter', sans-serif; font-weight: 500; letter-spacing: 0.5px;">“Design is not just what it looks like, but how it works.” – SHAHZU PLAYER</i>
+</p>  <a href="https://wa.me/923042586946"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/zakaullahbaloch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:shahzuking15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
