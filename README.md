@@ -1,31 +1,3 @@
-<!-- SHAHZU PLAYER - PRO FONTS VERSION -->
-<style>
-  body {
-    font-family: 'Inter', 'Segoe UI', 'Poppins', system-ui, -apple-system, sans-serif;
-  }
-  h1, h2, h3, .section-title, .pro-text {
-    font-family: 'Poppins', 'Inter', 'Segoe UI', sans-serif;
-    letter-spacing: -0.02em;
-  }
-  .badge-text {
-    font-family: 'SF Mono', 'Fira Code', monospace;
-    font-weight: 500;
-  }
-  .quote {
-    font-style: italic;
-    font-weight: 400;
-    letter-spacing: 0.3px;
-    background: linear-gradient(135deg, #f0f0f0, #e0e0e0);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-  }
-  .tech-badge {
-    font-family: 'Inter', monospace;
-    font-weight: 600;
-  }
-</style>
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co/MX3smR2/photo-2026-06-14-02-40-40-7651075889513365532.jpg" width="800" style="border-radius: 24px; box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3);" />
